@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Robson Oliveira
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/robson-oliveira-abreu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robson-oliveira-abreu&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-oliveira-abreu&layout=compact&langs_count=7&theme=blue-green"/>
