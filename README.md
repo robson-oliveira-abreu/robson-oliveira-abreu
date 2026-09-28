@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Robson Oliveira
 <div>
   <a href="https://github.com/robson-oliveira-abreu">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-oliveira-abreu&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=robson-oliveira-abreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robson-oliveira-abreu&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api?username=robson-oliveira-abreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
     
@@ -32,12 +32,6 @@
 ##
   
 <div> 
-
-  <a href="https://www.instagram.com/robson.oliveira63/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:robsonsilva.abreu@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:robsonsilva.yuki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robson-oliveira-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
+  <a href = "mailto:robsonsilvaoliveirasw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robson-oliveira-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
